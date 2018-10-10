@@ -1,0 +1,31 @@
+TZEDIT SOFTWARE LICENSE AGREEMENT
+
+	IMPORTANT: READ THESE TERMS BEFORE COMPLETING INSTALLATION AND USING OF THE TZEDIT SOFTWARE. The Tzedit software (the "Software") is freeware. This software is provided "as is", without any guarantee made as to its suitability or fitness for any particular use. It may contain bugs, so use of the Software is at your own risk. The author take no responsibility for any damage that may unintentionally be caused through its use.
+
+	By installing and/or using the Software, you agree to be bound by the terms of this agreement. If you do not agree with the terms of this license you must remove the Software files from your storage devices and cease to use the product.
+
+LICENSE TERMS.
+
+Under the terms of this license you may:
+
+	1.1.	Use this Software on any number of computers at any one time; and
+
+	1.2.	This software may be distributed freely on online services, bulletin boards, or other electronic media as long as the files are distributed in their entirety, keep intact all the notices that refer to this License and to the absence of any warranty. This software may not be distributed on CD-ROM, disk, or other physical media for a fee without the permission of the copyright holder.
+
+You shall not:
+
+	2.1.	Use, copy, modify, transform or merge the Software except as provided in this agreement;
+
+	2.2.	Modify, decompile, disassemble or otherwise reverse engineer the Software;
+
+	2.3.	Sublicense, rent, lease, sell or assign any portion of the Software;
+
+	2.4.	Transfer, provide or make available the Software to any other party except as provided for in section 1.2.
+
+NO WARRANTY.
+
+THE SOFTWARE PRODUCT AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+COPYRIGHTS.
+
+All copyrights to the Software are exclusively owned by Vadim Belov. All rights not expressly granted here are reserved by Vadim Belov.

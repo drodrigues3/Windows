@@ -1,0 +1,244 @@
+[Info]
+Language=English
+Translator=Southsoftware.com
+Version=1.0.0.0
+
+[Languages]
+Afrikaans=Afrikaans
+Albanian=Albanian
+Arabic=Arabic
+Armenian=Armenian
+Assamese=Assamese
+Azeri=Azeri
+Basque=Basque
+Belarusian=Belarusian
+Bengali=Bengali
+Bulgarian=Bulgarian
+Catalan=Catalan
+SChinese=Chinese Simplified
+TChinese=Chinese Traditional
+Croatian=Croatian
+Czech=Czech
+Danish=Danish
+Dutch=Dutch
+EnglishUS=English US
+EnglishUK=English UK
+Estonian=Estonian
+Faeroese=Faeroese
+Farsi=Farsi
+Finnish=Finnish
+French=French
+Georgian=Georgian
+German=German
+Greek=Greek
+Gujarati=Gujarati
+Hebrew=Hebrew
+Hindi=Hindi
+Hungarian=Hungarian
+Icelandic=Icelandic
+Indonesian=Indonesian
+Italian=Italian
+Japanese=Japanese
+Kannada=Kannada
+Kashmiri=Kashmiri
+Kazak=Kazak
+Konkani=Konkani
+Korean=Korean
+Latvian=Latvian
+Lithuanian=Lithuanian
+Macedonian=Macedonian
+Malay=Malay
+Malayalam=Malayalam
+Manipuri=Manipuri
+Marathi=Marathi
+Nepali=Nepali
+Norwegian=Norwegian
+Oriya=Oriya
+Polish=Polish
+Portuguese=Portuguese
+Punjabi=Punjabi
+Romanian=Romanian
+Russian=Russian
+Sanskrit=Sanskrit
+Serbian=Serbian
+Sindhi=Sindhi
+Slovak=Slovak
+Slovenian=Slovenian
+Spanish=Spanish
+Swahili=Swahili
+Swedish=Swedish
+Tamil=Tamil
+Tatar=Tatar
+Telugu=Telugu
+Thai=Thai
+Turkish=Turkish
+Ukrainian=Ukrainian
+Urdu=Urdu
+Uzbek=Uzbek
+Vietnamese=Vietnamese
+
+[Weekdays]
+Sunday=Sunday
+Monday=Monday
+Tuesday=Tuesday
+Wednesday=Wednesday
+Thursday=Thursday
+Friday=Friday
+Saturday=Saturday
+
+[Months]
+January=January
+February=February
+March=March
+April=April
+May=May
+June=June
+July=July
+August=August
+September=September
+October=October
+November=November
+December=December
+
+[WeekInMonth]
+first=First
+second=Second
+third=Third
+fourth=Fourth
+last=Last
+
+[MapTimeZones]
+100=Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London
+101=Amsterdam, Brussels, Copenhagen, Madrid, Paris, Vilnius
+102=Amsterdam, Belgrade, Berlin, Bern, Rome, Stockholm, Vienna, Sarajevo, Skopje, Sofija, Vilnius, Warsaw, Zagreb
+103=Belgrade, Bratislava, Budapest, Ljubljana, Prague, Warsaw, West Central Africa
+104=Athens, Bucharest, Istanbul, Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius, Minsk
+105=Jerusalem
+106=Bucharest, Minsk
+107=Cairo
+108=Harare, Pretoria
+109=Moscow, St. Petersburg, Volgograd
+110=Baghdad, Kuwait, Riyadh, Nairobi
+111=Tehran
+112=Abu Dhabi, Muscat, Baku, Tbilisi, Yerevan, Caucasus Standard Time
+113=Kabul
+114=Ekaterinburg, Islamabad, Karachi, Tashkent
+115=Bombay, Calcutta, Chennai, Mumbai, Madras, New Delhi, Kathmandu, Kolkata, Sri Jayawardenepura, Yangon (Rangoon), Colombo
+116=Astana, Almaty, Dhaka, Novosibirsk
+117=Bangkok, Hanoi, Jakarta, Krasnoyarsk
+118=Irkutsk, Ulaan Bataar, Kuala Lumpur, Singapore, Perth, Taipei
+119=Beijing, Chongqing, Hong Kong, Urumqi
+120=Osaka, Sapporo, Tokyo, Seoul, Yakutsk
+121=Adelaide, Darwin
+122=Guam, Port Moresby, Vladivostok
+123=Hobart
+124=Brisbane, Canberra, Melbourne, Sydney
+125=Magadan, New Caledonia, Solomon Is.
+126=Auckland, Wellington, Nuku'alofa
+127=International Date Line West, Eniwetok, Kwajalein, Fiji, Kamchatka, Marshall Is.
+128=Midway Island, Samoa
+129=Hawaii
+130=Alaska
+131=Pacific Time (US & Canada), Tijuana
+132=Mountain Time (US & Canada), Chihuahua, La Paz, Mazatlan - Old
+133=Arizona
+134=Central Time (US & Canada)
+135=Central America, Guadalajara, Mexico City, Tegucigalpa, Monterrey - Old
+136=Saskatchewan
+137=Eastern Time (US & Canada)
+138=Bogota, Lima, Quito
+139=Indiana (East)
+140=Atlantic Time (Canada)
+141=Georgetown, Caracas, La Paz, Manaus, San Juan, Santiago
+142=Newfoundland
+143=Buenos Aires, Georgetown, Cayenne, Fortaleza
+144=Brasilia, Greenland
+145=Mid-Atlantic
+146=Azores, Cape Verde Is.
+147=Casablanca, Monrovia, Reykjavik
+
+[Menu]
+File=&File
+Language=&Language
+Exit=E&xit
+Action=&Action
+Properties=&Properties
+DynamicDST=&Dynamic DST
+Remove=R&emove
+AddNew=&Add New
+Refresh=&Refresh
+Help=&Help
+About=&About Tzedit...
+Online=Southsoftware.com &On-line...
+
+[MenuDescription]
+System=Commands for working with a window
+Size=Change window dimensions
+Move=Change window position
+Minimize=Make window into icon
+Maximize=Enlarge window to fill screen
+Close=Close window
+Restore=Restore window to normal size
+Switch=Switch to another program
+File=File management commands
+Language=Language management commands
+Exit=Exit Tzedit
+Action=Action commands
+Properties=Display item properties
+DynamicDST=Display Dynamic DST properties
+Remove=Remove selected time zone
+AddNew=Add new time zone
+Refresh=Refresh list
+Help=Display Help
+About=About Tzedit
+Online=Open Southsoftware.com Web Site
+
+[Window]
+Caption=Tzedit
+WindowsSettings=Windows
+TimeZones=Time Zones
+Name=Name
+Value=Value
+NotSupported=Data format is not supported.
+NotSet=Not set
+CustomValue=Custom value
+NoString=No MUI string.
+CantRecognize=Active time zone was not recognized. Please make sure that the "Standard Time Name" of the active time zone is unique and not empty.
+Remove=Are you sure you want to remove this item?
+RemoveActive=Active time zone cannot be removed.
+
+[Buttons]
+OK=OK
+Cancel=Cancel
+Close=&Close
+
+[About]
+About=About
+
+[Properties]
+Caption=Properties
+ZoneGroup=Time zone information
+ZoneName=Time Zone &Name:
+ZoneBias=&Offset from GMT:
+ZoneStdName=&Standard Time Name:
+ZoneDstGroup=Daylight Saving Time
+ZoneDstAutoSet=A&utomatically set Daylight Saving Time
+ZoneDstBias=Da&ylight Bias:
+ZoneDstName=&Daylight Time Name:
+ZoneDstStart=S&tart Day:
+ZoneDstLast=&Last Day:
+ZoneDstOf=of
+ZoneDstAt=at
+MapGroup=Map
+IndexGroup=Microsoft Time Zone Index
+MUIGroup=MUI
+MUIZoneName=MUI Display Name:
+MUIStdName=MUI Standard Name:
+MUIDstName=MUI Daytime Name:
+
+[MUIString]
+Caption=MUI String
+Title=&Select a MUI string:
+
+[DynamicDST]
+Caption=Dynamic DST
